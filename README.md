@@ -1,12 +1,12 @@
 # Multitask Learning with BERT
 
-### [Demo Website: Natural Language Understanding](aics.nctu.me:3000)
+### [Demo Website: Natural Language Understanding](http://aics.nctu.me:3000)
 
 This repo demos the concept of Multitask Learning with BERT. According to the original paper, there are 4 different downstream applications for BERT. We fine tune the `Sentence Classification` and `Sentence Tagging` two tasks jointly. 
 
 <img src="https://i.imgur.com/2cNNZxA.png" width="400px">
 
-This type of model structure could be used in tasks when word tags and sentence labels have high correlation. Since this repos is a proof-of-concept demo, you can view the actual implementation of [Speech Act](https://en.wikipedia.org/wiki/Speech_act) tagging + classification at aics.nctu.me:3000 
+This type of model structure could be used in tasks when word tags and sentence labels have high correlation. Since this repos is a proof-of-concept demo, you can view the actual implementation of [Speech Act](https://en.wikipedia.org/wiki/Speech_act) tagging + classification [here](http://aics.nctu.me:3000)
 
 
 
