@@ -1,6 +1,6 @@
 # Multitask Learning with BERT
 
-### [Demo Website: Natural Language Understanding](http://aics.nctu.me:3000)
+### [Demo Website: Natural Language Understanding with BERT and Google Sling Parser](http://aics.nctu.me:3000)
 
 This repo demos the concept of Multitask Learning with BERT. According to the original paper, there are 4 different downstream applications for BERT. We fine tune the `Sentence Classification` and `Sentence Tagging` two tasks jointly. 
 
